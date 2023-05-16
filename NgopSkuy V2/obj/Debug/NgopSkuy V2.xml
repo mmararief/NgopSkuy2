@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NgopSkuy V2
+</name>
+</assembly>
+<members>
+<member name="T:NgopSkuy_V2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:NgopSkuy_V2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:NgopSkuy_V2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:NgopSkuy_V2.My.Resources.Resources._5206251">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NgopSkuy_V2.My.Resources.Resources.Coffee_Logo_PNG_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NgopSkuy_V2.My.Resources.Resources.CUT">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NgopSkuy_V2.My.Resources.Resources.Grey_Minimalist_Coffee_Photo_Quotes_Your_Story">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NgopSkuy_V2.My.Resources.Resources.Grey_Minimalist_Coffee_Photo_Quotes_Your_Story1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NgopSkuy_V2.My.Resources.Resources.Grey_Minimalist_Coffee_Photo_Quotes_Your_Story2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NgopSkuy_V2.My.Resources.Resources.icon_eye_17">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NgopSkuy_V2.My.Resources.Resources.kebalik">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NgopSkuy_V2.My.Resources.Resources.purepng_com_shopping_cartshoppingcarttrolleycarriagebuggysupermarkets_1421526532323sy0um">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NgopSkuy_V2.My.Resources.Resources.R__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NgopSkuy_V2.My.Resources.Resources.R__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NgopSkuy_V2.My.Resources.Resources.R__3_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

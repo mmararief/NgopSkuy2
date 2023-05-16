@@ -1,0 +1,62 @@
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\NgopSkuy V2.exe.config
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\NgopSkuy V2.exe
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\NgopSkuy V2.pdb
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\NgopSkuy V2.xml
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\Guna.UI2.dll
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy V2.vbproj.AssemblyReference.cache
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy V2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy_V2.Form1.resources
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy_V2.Resources.resources
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy V2.vbproj.GenerateResource.cache
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy V2.vbproj.CoreCompileInputs.cache
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy V2.vbproj.CopyComplete
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy V2.exe
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy V2.xml
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy V2.pdb
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\MaterialSkin.dll
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\MySqlConnector.dll
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Buffers.dll
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Memory.dll
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\MySqlConnector.xml
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Buffers.xml
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Memory.xml
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ando\source\repos\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\NgopSkuy V2.exe.config
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\NgopSkuy V2.exe
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\NgopSkuy V2.pdb
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\NgopSkuy V2.xml
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\Guna.UI2.dll
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\MaterialSkin.dll
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\MySqlConnector.dll
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Buffers.dll
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Memory.dll
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\MySqlConnector.xml
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Buffers.xml
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Memory.xml
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy V2.vbproj.AssemblyReference.cache
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy V2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy_V2.Form1.resources
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy_V2.Resources.resources
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy V2.vbproj.GenerateResource.cache
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy V2.vbproj.CoreCompileInputs.cache
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy V2.vbproj.CopyComplete
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy V2.exe
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy V2.xml
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy V2.pdb
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy_V2.Home.resources
+C:\Users\arief\Downloads\NgopSkuy V2\NgopSkuy V2\obj\Debug\NgopSkuy_V2.Dashboard.resources
